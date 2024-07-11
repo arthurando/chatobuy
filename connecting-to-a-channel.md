@@ -14,10 +14,6 @@ Use your login ID and Password to access your Dashboard.
 
 Inside the Dashboard, go to the left sidebar and select _Channels_.
 
-{% embed url="https://www.loom.com/share/b9ef063c1ef14d86a85b9f8d68f3f135" %}
-Connecting a Channel
-{% endembed %}
-
 ### Step 3 - Create a Channel
 
 Upon selecting the Channels, a new window will open with 8 Channel options.

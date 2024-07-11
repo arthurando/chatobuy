@@ -4,11 +4,9 @@ description: Easy login.
 
 # Login to Chatobuy
 
-To use the Chatobuyplatform, you need to log in, first. Therefore, open https://app.chatobuy.ai on your browser window.
+To use the Chatobuy platform, you need to log in, first. Therefore, open https://app.chatobuy.ai on your browser window.
 
-<figure><img src="../.gitbook/assets/Hompage.png" alt=""><figcaption><p>Homepage</p></figcaption></figure>
-
-Or you can click the **Register/Login** button at rumwork.io. This will open the following login page.
+Or you can click the **Register/Login** button. This will open the following login page.
 
 <figure><img src="../.gitbook/assets/Login Screen.png" alt=""><figcaption><p>Login Screen</p></figcaption></figure>
 
