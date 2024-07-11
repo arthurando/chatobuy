@@ -10,10 +10,6 @@ Explore the following settings to learn more.
 [general.md](general.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md" %}
-[https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md)
-{% endcontent-ref %}
-
 {% content-ref url="chat-settings.md" %}
 [chat-settings.md](chat-settings.md)
 {% endcontent-ref %}
