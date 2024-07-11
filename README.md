@@ -22,7 +22,7 @@ Moreover, you can perform different actions that would allow you to provide grea
 
 Furthermore, you can invite your Team members to take part in it. That's even more awesome.
 
-Let's find what you can enjoy while using the RUM Work platform.
+Let's find what you can enjoy while using the Chatobuy platform.
 
 ### Single Platform - Lots of Features
 
