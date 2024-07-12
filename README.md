@@ -6,9 +6,9 @@ description: >-
 
 # Welcome to Chatobuy
 
-<figure><img src=".gitbook/assets/RUM Work All Channels View.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled design.png" alt=""><figcaption></figcaption></figure>
 
-## What is Chatobuy?\#
+## What is Chatobuy?
 
 Great question by the way.
 
@@ -36,7 +36,7 @@ Through Channels, you can connect multiple messaging platforms to Chatobuy. Thus
 
 With Chatobuy, you never have to log in to your different messaging platforms. The one-inbox will allow you to switch between Channels and see user queries right from RUM Work. Answer them, delete them, or pin them.
 
-<figure><img src=".gitbook/assets/One Inbox.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled design (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Automation
 
