@@ -4,8 +4,6 @@ Overview
 
 Actions in an automation workflow are the Tasks that get executed when Trigger activates, and Trigger Condition(s) are fulfilled.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FOfMa8OGCNv3u940nI2fo%2FAdding%20Workflow%20step%20.png?alt=media&#x26;token=a6d42df9-63e8-4496-b694-4697cbb60415" alt=""><figcaption><p>Adding Workflow Step</p></figcaption></figure>
-
 To add an action to an automation workflow, first, you need to select a [Trigger](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), then the [Channel](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md) in which you want to trigger the automation. After that, add [Trigger Condition](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md)(s), and once you've added all, click the **Add Workflow Step** to access Action types and add them.
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F5ORwPyOFqC5p0H99q1vi%2FRUMWork%20Automation%20Workflow%20Steps.png?alt=media&#x26;token=767bda61-cf98-44a5-ab01-1c548241077b" alt=""><figcaption><p>Workflow Steps/Actions</p></figcaption></figure>
@@ -239,4 +237,4 @@ After selecting the action type, select the template you've created before.
 
 In the Workflow Step / Actions section, select **Auto Reply Button/Options/Products** as the Action Type.
 
-The Round Robin method will work per the configuration in the [Chat Settings](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md).
+The Round Robin method will work per the configuration in the [Chat Settings](chat-settings.md).

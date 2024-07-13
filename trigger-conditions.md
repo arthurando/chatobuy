@@ -64,17 +64,13 @@ Set your business hours using the My Account settings.
 
 #### 7. New Catalog Order Received
 
-If you've created [Product Catalogs](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md) in the WhatsApp Store Settings, you can create Automation based on that. It will run when your contacts send a Catalog request after you send them the option to select products using the [Interactive Message](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md).
+If you've created [Product Catalogs](store-settings-1/catalog-settings.md) in the WhatsApp Store Settings, you can create Automation based on that. It will run when your contacts send a Catalog request after you send them the option to select products using the Interactive Message.
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FwFsQ0vOdPoigcV4LM7nm%2FSelect%20Product.jpeg?alt=media&#x26;token=bd9812e7-2d3f-4639-a3bf-5b5b705fa228" alt=""><figcaption><p>Interactive Message sent by the Business Owner.</p></figcaption></figure>
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FofNq9aNdgFMJTUEn2Tfr%2FSelect%20Products.jpeg?alt=media&#x26;token=7b8ad0f9-77c8-4dfd-bf5f-d18266aec841" alt=""><figcaption><p>Contact will select the product and then send it to the business.</p></figcaption></figure>
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FrDwbwUKWUadkXajm9ELL%2FOrder%20Received%20Message.png?alt=media&#x26;token=9858f1c1-5f38-4820-b9fa-3c64fe52cad6" alt=""><figcaption></figcaption></figure>
-
 Based on the order received, you can run the automation. And to do that, select Trigger Condition as **New Catalog Order Received.**
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FBTib6pXykXzY9qIMaE8a%2FNew%20catalog%20order%20received%20trigger%20condition.png?alt=media&#x26;token=660075a4-1fe3-421f-9e4b-0b8527ecb593" alt=""><figcaption></figcaption></figure>
 
 #### 8. Very first message or message after 24hrs of last message
 
@@ -84,7 +80,7 @@ Set an action for the workflow that needs to be executed when the _New Incoming 
 
 ### Working
 
-Based on your selected [Trigger](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), you get the Trigger Condition. Simply select the required condition.
+Based on your selected [Trigger](trigger.md), you get the Trigger Condition. Simply select the required condition.
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FH8JvP8PloCZPagsYpwBS%2FSelect%20Trigger%20Condition.png?alt=media&#x26;token=a00f6292-0b61-4436-8eb4-002be3446f25" alt=""><figcaption></figcaption></figure>
 

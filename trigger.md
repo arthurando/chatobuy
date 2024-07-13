@@ -12,11 +12,11 @@ At Chatobuy, you can utilise 4 types of Automation Workflow Triggers:
 
 #### 1. New Outgoing Message
 
-You can use this trigger to set conditions to activate an automated action(s) when you or your teammate send a message to the client/customer/user using [Chat](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md).
+You can use this trigger to set conditions to activate an automated action(s) when you or your teammate send a message to the client/customer/user using [Chat](chat.md).
 
 #### 2. New Incoming Message
 
-Using this Trigger, you can activate an automated action(s) based on the conditions when you receive a message on the selected [Channel](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md).
+Using this Trigger, you can activate an automated action(s) based on the conditions when you receive a message on the selected [Channel](channels-overview.md).
 
 #### 3. New Contact Created By Chat
 
@@ -32,6 +32,6 @@ Create an Automation Workflow triggered by the addition or removal of the Tag fr
 
 ### Conditions & Actions
 
-During [creating an automation workflow](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), choosing Trigger [**(1)**](trigger.md#1.-new-outgoing-message) or [**(2)**](trigger.md#2.-new-incoming-message) will further open multiple **Trigger Conditions**.
+During [creating an automation workflow](automation-workflows.md), choosing Trigger [**(1)**](trigger.md#1.-new-outgoing-message) or [**(2)**](trigger.md#2.-new-incoming-message) will further open multiple **Trigger Conditions**.
 
 Each Trigger has a different set of conditions. Once these conditions are fulfilled, the automated Actions run.
