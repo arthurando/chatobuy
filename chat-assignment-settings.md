@@ -1,6 +1,6 @@
 # Chat Assignment Settings
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/chatassignment.PNG" alt=""><figcaption></figcaption></figure>
 
 Chat Assignment Settings" typically refers to the configuration options available for managing how incoming chats or messages are assigned to agents or representatives within a business or customer support system. Here's a general guide on how you might access and configure these settings:
 

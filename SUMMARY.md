@@ -25,7 +25,6 @@
 * [Live Translation Settings](live-translation-settings.md)
 * [Chat Assignment Settings](chat-assignment-settings.md)
 * [Chat Queue Setting](chat-queue-setting.md)
-* [Reply on Conversation Status Change](reply-on-conversation-status-change.md)
 * [Working Hours](working-hours.md)
 * [Roles & Permissions](roles-and-permissions.md)
 * [Department](department.md)

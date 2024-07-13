@@ -1,6 +1,6 @@
 # Chat Queue Setting
 
-<figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/chatqueuesettings.PNG" alt=""><figcaption></figcaption></figure>
 
 Enable automatic closing chats from the queue.
 

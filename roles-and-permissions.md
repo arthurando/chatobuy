@@ -6,25 +6,17 @@ Through **Roles & Permissions** Setting, you can create different roles and allo
 
 To access this particular setting, go to **Settings** and then click **Roles & Permissions**.
 
-<figure><img src=".gitbook/assets/screenshot-nimbusweb.me-2024.05.16-18_04_48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/rolesandpermission.PNG" alt=""><figcaption></figcaption></figure>
 
 ### Create a Role
 
-<figure><img src=".gitbook/assets/screenshot-nimbusweb.me-2024.05.16-18_06_43.png" alt=""><figcaption></figcaption></figure>
-
 At Roles & Permissions, click the **Create Role** button.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FrdOrlQ4whbUsToZ0ByxZ%2FCreate%20Role%20Modal.png?alt=media&#x26;token=451e1c90-2902-4135-a41f-4203e7b55a6e" alt=""><figcaption></figcaption></figure>
 
 Then, define the name of the Role and click **Save**.
 
 ### Assign Permission
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FwlVrg3OKou584FIvOtcR%2FAssigning%20Permission.png?alt=media&#x26;token=ebe2a4a5-a16b-4573-82da-7bd3bc344b16" alt=""><figcaption></figcaption></figure>
-
 Once you've created a Role, you'd find it in the tab. Then, to assign permissions, simply click the checkbox next to permission.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FGBg1M0BYuaYdtNH00QOM%2FAll%20Permissions%20at%20Once.png?alt=media&#x26;token=2342e5d0-ed7a-4c43-b62e-bd2cfff86651" alt=""><figcaption></figcaption></figure>
 
 Or select them all by checking the Bulk box. There are a total of 34 permissions you can assign to a role.
 
@@ -66,24 +58,14 @@ Or select them all by checking the Bulk box. There are a total of 34 permissions
 
 ### Editing a Role
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2Fr8jX9Z0NTwBTkk0R6VZ2%2FEdit%20a%20Role.png?alt=media&#x26;token=6f06c835-dc49-4bdd-abfa-1e74ad8d4e8a" alt=""><figcaption></figcaption></figure>
-
 To edit a Role, click the Menu (three vertical dots) icon, then select **Edit**.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FVDLg3GdhiSYC9X5x5AmP%2FEdit%20a%20Role%20Edit%20option.png?alt=media&#x26;token=f6763a2e-a33f-4291-a112-07b201cf7fc0" alt=""><figcaption></figcaption></figure>
 
 It will allow you to change the name. Once edited, click **Save**.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F8rerMMHWyNf9AM6gdq93%2FUpdate%20the%20Role.png?alt=media&#x26;token=d08e0e63-2bd9-44c3-a414-e6d6d494ca32" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/updaterole.PNG" alt=""><figcaption></figcaption></figure>
 
 ### Delete a Role
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FuP80ODCS5iFV7Sv1gVcd%2FTo%20Delete%20a%20Role.png?alt=media&#x26;token=8f0c387a-777a-478a-b296-a119d1cf5c3e" alt=""><figcaption></figcaption></figure>
-
 To delete a Role, click the Menu (three vertical dots) icon, then select Delete.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FxJG0hNhWvrOTrX4qhQE1%2FDelete%20a%20Role%20Delete%20option.png?alt=media&#x26;token=fd6b7615-d520-4149-a9e5-e1c04539cfa4" alt=""><figcaption></figcaption></figure>
-
 Then click the **Confirm** button to finalise deleting.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FT9IeHIYI7eIvwy4CmYmt%2FConfirm%20Delete%20a%20Role.png?alt=media&#x26;token=b922cde1-e3f1-4082-a422-bd3f0d48a68d" alt=""><figcaption></figcaption></figure>
