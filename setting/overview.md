@@ -8,7 +8,7 @@ You can access the Settings Panel and its options in 2 ways.
 
 * From the Dashboard, go to the Left Sidebar and click Settings.
 
-<figure><img src="../.gitbook/assets/dashboard.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashboard (2).PNG" alt=""><figcaption></figcaption></figure>
 
 * Or, click on the gear (⚙️) icon directly from your dashboard.
 

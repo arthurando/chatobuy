@@ -2,8 +2,6 @@
 
 In the Conversation Tray, you can filter chats by their status and group. In addition, you can add contacts as well as download all the chats you had with your customers.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FW8KClxSPnNIdaxe0xyZV%2FConversation%20Tray.png?alt=media&#x26;token=19897e98-26a6-40d5-841d-5b65d18ebd18" alt=""><figcaption></figcaption></figure>
-
 The filter options are,
 
 * All Contacts<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FORBRYmXV1N6yI5hySLSm%2FAll%20Contacts%20in%20Chat.png?alt=media&#x26;token=0885b9be-aa53-40fc-a797-3bedda052256" alt="" data-size="line">: By default you see conversation of all the contacts.
