@@ -4,11 +4,9 @@ description: Broadcast manual or scheduled messages using the Campaigns module.
 
 # Campaigns
 
-The **Campaigns** module at Chatobuy allows you to send manual or scheduled messages or messages to single or multiple contacts. For this, you can use a simple message or a [pre-approved message template](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md) based on the selected [Channel](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md).
+The **Campaigns** module at Chatobuy allows you to send manual or scheduled messages or messages to single or multiple contacts. For this, you can use a simple message or a [pre-approved message template](whatsapp-message-templates.md) based on the selected[ Channel.](channels-overview.md)
 
 To access the Campaigns, head over to the left sidebar and select **Campaigns**.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FYF0YfhGOWnune0kaBxaZ%2FAccessing%20Campaigns.png?alt=media&#x26;token=cb1861b9-3d79-4428-9171-eb1ede12f384" alt=""><figcaption></figcaption></figure>
 
 Currently, there are 2 types of Campaigns available:
 
@@ -17,10 +15,10 @@ Currently, there are 2 types of Campaigns available:
 
 Explore the following pages to learn more about these campaign types.
 
-For WhatsApp Channels like [360dialog](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), [Emma](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), and [Cloud API](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), you can send a simple message or List/Button/Options/Product Messages only when it's within the 24-Hour Window of the last message received from the users or customers.
+For WhatsApp Channels like Cloud API, you can send a simple message or List/Button/Options/Product Messages only when it's within the 24-Hour Window of the last message received from the users or customers.
 
 {% hint style="warning" %}
-WhatsApp Business Platform has a Customer Service Window (24-hour) in which businesses can send both simple messages and [pre-approved templates](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md). Outside the customer service window, the business would require a message template.
+WhatsApp Business Platform has a Customer Service Window (24-hour) in which businesses can send both simple messages and pre-approved templates. Outside the customer service window, the business would require a message template.
 {% endhint %}
 
 The WhatsApp Business Platform works around two different categories of conversation:
