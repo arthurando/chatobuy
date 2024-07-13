@@ -12,7 +12,7 @@ The Channels available at Chatobuy are a bridge that lets you connect different 
   * [Cloud API](cloud-api.md)
   * Unofficial
 * [**Facebook**](facebook-integration.md)
-* [**Instagram**](instagram-integration.md)
+* [**Instagram**](broken-reference)
 * Line
 * WeChat
 * Telegram

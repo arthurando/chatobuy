@@ -8,7 +8,7 @@ description: Stay updated with user queries and respond to them promptly
 
 The Chat module at Chatobuy allows viewing user/customer messages sent or received on different chat platforms. Plus, it enables you to communicate with your customers on different channels and provide top-notch customer service without opening too many platforms or inboxes.
 
-Through Chat, you can respond to queries coming from [WhatsApp](whatsapp-integration.md), [Facebook](facebook-integration.md), [Instagram](instagram-integration.md).
+Through Chat, you can respond to queries coming from [WhatsApp](whatsapp-integration.md), [Facebook](facebook-integration.md), [Instagram](broken-reference).
 
 Although upon login to Chatobuy, by default, you'll be on the Chat module interface. But still, to access the Chat module, click the Chat option in the sidebar.
 
