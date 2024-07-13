@@ -6,15 +6,13 @@ description: Send interactive messages.
 
 Using the Buttons/Options/Product Messages option in the WhatsApp channel, send pre-built interactive messages like Buttons, Lists, and Single or Multi Product messages.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2Fzr2QhRVqpdCq6JwUm9t8%2FAccessing%20Buttons%20and%20Options%20and%20Product%20Messages.gif?alt=media&#x26;token=031ccad1-d17f-4807-ab94-3c4987511637" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/channelconfigure.PNG" alt=""><figcaption></figcaption></figure>
 
 Click **Details** → then open **Buttons/Options/Product Messages**.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F3e9Ru6nkGMV8MPmDMGip%2FCreate%20Interactive%20Message%20Button.png?alt=media&#x26;token=dd6dd086-c800-4575-a729-34f7518f145a" alt=""><figcaption></figcaption></figure>
-
 Then click **Create Interactive Message**. It will open the template builder, where you can define the template name and then select a Message Type,
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F0AP5FezeocqzqePWtM4K%2FCreate%20Interactive%20Message%20Template%20Builder.png?alt=media&#x26;token=9b47e2dc-3b2f-4580-8e46-59dd1729a229" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/createinteractive.PNG" alt=""><figcaption></figcaption></figure>
 
 There are 4 Message Types, and upon selecting each of them, you'd get different options.
 
@@ -93,7 +91,7 @@ When you send the List Interactive Message, your contact(s) will see the message
 
 ### Single Product Message
 
-In addition to [List](button-options-product-messages.md#list) and [Button](button-options-product-messages.md#button), you can send Product Messages if you've set your Catalog. Refer to the following docs to learn how to set up a Product Catalog for WhatsApp Channel in Rampwin.
+In addition to [List](button-options-product-messages.md#list) and [Button](button-options-product-messages.md#button), you can send Product Messages if you've set your Catalog. Refer to the following docs to learn how to set up a Product Catalog for WhatsApp Channel in Chatobuy.
 
 So, in place of List or Button, select **Single Product Message**. This will allow you to send an interactive message only with a single product.
 
@@ -135,7 +133,7 @@ Before creating Product Messages, ensure you've set up Product Catalog(s.)
 
 ### Using Buttons/Options/Product Message
 
-Through [Chat Module](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), you can use an interactive message easily.
+Through Chat Module, you can use an interactive message easily.
 
 {% content-ref url="send-message.md" %}
 [send-message.md](send-message.md)

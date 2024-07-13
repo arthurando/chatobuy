@@ -19,5 +19,3 @@ Here, name your template. Insert placeholders to personalise the message. Edit t
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FDBywGPqo6tNSOIM9bTsD%2FSaving%20Message%20Template%20in%20Facebook%20Channel.png?alt=media&#x26;token=de2e3d03-b4f3-42d2-a963-675f65062112" alt=""><figcaption></figcaption></figure>
 
 Once done with the template, click Save, and it will be shown to the message templates library.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FRI4LEXR3ifZ5KxVSyvhW%2FMessage%20Templates%20Library%20in%20Facebook%20Channel.png?alt=media&#x26;token=3fc5ebb5-1dd2-4324-980b-2a6c6e679f77" alt=""><figcaption></figcaption></figure>

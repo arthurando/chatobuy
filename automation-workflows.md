@@ -45,7 +45,7 @@ After selecting the Channel, you need to select either a Trigger or Service Inte
 
 #### Select Trigger Condition
 
-Based on your selected [Trigger](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), you get the Trigger Conditions. Simply select the required condition.
+Based on your selected [Trigger](trigger.md), you get the [Trigger Conditions.](trigger-conditions.md) Simply select the required condition.
 
 <figure><img src=".gitbook/assets/createanautomation.PNG" alt=""><figcaption></figcaption></figure>
 

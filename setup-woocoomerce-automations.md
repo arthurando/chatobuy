@@ -19,8 +19,6 @@ description: >-
 
 <figure><img src=".gitbook/assets/woo_automation.png" alt=""><figcaption><p>COD Order Confirmation</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Choose Custom Condition</p></figcaption></figure>
-
 * [ ] Choose Action Auto Reply Template Message.
 * [ ] Choose your template for COD order confirmation.
 * [ ] Choose your placeholders in Template message & Save.

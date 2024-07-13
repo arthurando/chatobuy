@@ -6,7 +6,7 @@ Actions in an automation workflow are the Tasks that get executed when Trigger a
 
 To add an action to an automation workflow, first, you need to select a [Trigger](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md), then the [Channel](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md) in which you want to trigger the automation. After that, add [Trigger Condition](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md)(s), and once you've added all, click the **Add Workflow Step** to access Action types and add them.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F5ORwPyOFqC5p0H99q1vi%2FRUMWork%20Automation%20Workflow%20Steps.png?alt=media&#x26;token=767bda61-cf98-44a5-ab01-1c548241077b" alt=""><figcaption><p>Workflow Steps/Actions</p></figcaption></figure>
+<figure><img src=".gitbook/assets/automations.PNG" alt=""><figcaption><p>Workflow Steps/Actions</p></figcaption></figure>
 
 There are a total of 24 Actions for the Automated Workflow; based on those, you can run automated tasks at Chatobuy.
 
@@ -17,14 +17,17 @@ The 24 Workflow Steps or Actions you can utilize at Chatobuy are,
 #### Starting Point: Trigger Node
 
 * **Define your trigger**: This could be an incoming message, a specific user action, a scheduled time, or an event from another system (e.g., new customer sign-up).
+* Each **Event** has its own Trigger nodes.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/triggernode.PNG" alt=""><figcaption><p>Outgoing Message Trigger</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/triggernode-incoming.PNG" alt=""><figcaption><p>Incoming Message Trigger</p></figcaption></figure>
 
 #### Workflow
 
 * **Criteria Router**: Route the workflow based on specific criteria such as message content, user attributes, or other conditions.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/criteriarouting.PNG" alt=""><figcaption></figcaption></figure>
 
 * **Jump to Automation**: Jump to a specific automation flow based on criteria.
 
@@ -66,12 +69,7 @@ For multiple questions, you can click the button **Add More Questions**, and onc
 #### `Customer` Interaction
 
 * **Add To Drip Campaign**: Add users to a drip campaign for sequential automated messages.
-
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
 * **Remove From Drip Campaign**: If the contact is in a Drip Campaign, and if you want to remove it from that based on the Trigger Condition(s) fulfillment, you can use this particular Automation Workflow Step.
-
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Simply select the Drip Campaign from the list and click **Add**.
 
@@ -105,17 +103,10 @@ There are two options it provides:
 * Assign One by One (Round Robin Method)
 * **Unassign From Team**: Remove an assignment from a team member when necessary.
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
 #### Security
 
 * **Hide The File**: Secure sensitive files shared in the conversation.
-
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-
 * **Mark The Text Messages As Per Regex**: Use regex patterns to identify and mark specific text messages for follow-up or categorization.
-
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 #### Technical
 
@@ -167,13 +158,11 @@ With the payment link, you can also add a custom message if needed. Explore the 
 
 * **Alert and update**: Send notifications for order status, promotions, or updates.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 #### 1. Auto Reply
 
 Using this particular Workflow Step, define a message to send it as an auto-reply when trigger condition(s) is fulfilled.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FHQV6sNV6JOQlJsYZN5Zo%2FAuto%20Reply%20Workflow%20Step.png?alt=media&#x26;token=7675a143-d8b2-4f47-aa72-810c8e7e0b89" alt=""><figcaption><p>Auto Replay Workflow Step</p></figcaption></figure>
+<figure><img src=".gitbook/assets/autoreply.PNG" alt=""><figcaption><p>Auto Replay Workflow Step</p></figcaption></figure>
 
 To use this Workflow step, simply add the text, use contact fields, insert any file you want to by clicking the Choose File button and once done, click **Add**.
 

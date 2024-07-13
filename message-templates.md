@@ -4,16 +4,14 @@ Message Templates are used to initiate business side conversations after the 24-
 
 To create a Message Template for the Cloud API WhatsApp Channel, click **Manage Templates**.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FjwVmMOTzsO60dGjk3mAs%2FManage%20Templates%20Button.png?alt=media&#x26;token=c836cad7-2dc1-4dce-a8c0-b3f65a60f2d5" alt=""><figcaption><p>Accessing Cloud API Message Templates Options</p></figcaption></figure>
+<figure><img src=".gitbook/assets/channelconfigure.PNG" alt=""><figcaption><p>Accessing Cloud API Message Templates Options</p></figcaption></figure>
 
 This will open the Message Templates window with an ACCOUNT\_UPDATE template created by Facebook by default.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FtwDNVNJfK1vFbPhr3y6q%2FMessage%20Template%20Window%20for%20Cloud%20API.png?alt=media&#x26;token=fa7306d9-9621-485d-bc03-99d29a9bb790" alt=""><figcaption><p>Message Template Window</p></figcaption></figure>
 
 The options available are,
 
 * **Create WhatsApp Template** - Using this, you can access the builder to create a WhatsApp Message Template.
-* **Synchronize with Facebook** - Sync Rampwin Templates with Facebook.
+* **Synchronize with Facebook** - Sync Chatobuy Templates with Facebook.
 * **Delete the Message Template** <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F3Of4IVOBkTD6Yfey20F7%2FDelete%20Button.png?alt=media&#x26;token=82c696d8-8f39-4ebd-82c3-f74f28e61d38" alt="" data-size="line">
 * **Duplicate the Message Template**<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FMFKb5CR3QvlaV10MWhF8%2FDuplicate%20Icon.png?alt=media&#x26;token=4dbc2f44-7395-4eb4-90a6-2f0014a7b5c0" alt="" data-size="line">
 
@@ -21,11 +19,9 @@ The options available are,
 
 To create a Message Template, click **Create WhatsApp Template**.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FDyWB5PVoaq3sTEG1jzM8%2FCreate%20WhatsApp%20Template%20Button.png?alt=media&#x26;token=dd3730eb-0ae9-4d62-8035-a29ed9b9a909" alt=""><figcaption></figcaption></figure>
-
 A Create Message Template popup will come in which you get the options to,
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FGAITowgCZEPuZWnjLgRD%2FMessage%20Template%20Popup.png?alt=media&#x26;token=c407cf8e-9af6-47ca-a992-39f877cb0106" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/createtemplate.PNG" alt=""><figcaption></figcaption></figure>
 
 * Define Template Name - **Name**
 * Select Category - **Category** (One Time Password, Transactional and Marketing)
@@ -37,11 +33,7 @@ A Create Message Template popup will come in which you get the options to,
 
 Now, first, define the Template name, then select a category and after that, choose a language. Ensure you select the language in which you'll add the body text. Otherwise, it will be rejected. Also, keep the template name in the lowercase with an underscore if you're going to add space like the following,
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FQ6KryksE1fQYqhBev12p%2FAssigning%20Template%20Name%2C%20Category%20and%20Language.png?alt=media&#x26;token=fc9de18c-aab2-423a-a6e6-e22078bc61fa" alt=""><figcaption></figcaption></figure>
-
 Then select your Header type from the available options,
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FbPaHz397YvR1faYA6ekK%2FInserting%20Header%20Text%20for%20Message%20Template.gif?alt=media&#x26;token=1690785b-d8c5-4c40-866c-2703a6a9e5af" alt=""><figcaption></figcaption></figure>
 
 If you choose Text, add a variable that will be used as a placeholder for the template, which you'd replace with the correct information of the contact you'll send the template to. Plus, add the variable's example in the **Example Content for** the field.
 
@@ -56,8 +48,6 @@ If you set Header Text as, "_Hi,\{{1\}} your order has been received_," and Exam
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FvzQEIQX6lyFi9zcbkYIx%2FHeader%20Types%20for%20Message%20Template.png?alt=media&#x26;token=cd9a5f06-289f-402c-a3ce-8f6a5bb1a85d" alt=""><figcaption></figcaption></figure>
 
 If you choose Header type as Image, Video, or Document, you need to upload a sample file to help Facebook verify the use. It should be a sample file, not an original Image, Video, or Document detailing your contact.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FKoWPqZZNuIE5QSqwNrmB%2FUploaded%20Image%20File%20and%20Sample%20Preview%20of%20the%20Message%20Template.png?alt=media&#x26;token=989a158d-4927-43b5-8b35-c29928e6e572" alt=""><figcaption></figcaption></figure>
 
 Once the file is uploaded, you can see it in the preview tab. After setting the Text, or uploading a file representing the Header, enter the text for your Body.
 
@@ -87,16 +77,14 @@ And the Quick Replay button lets you add 3 buttons for the selected purpose.
 
 After adding all the details to the template, check its Preview, and if everything's fine, click **Submit For Approval**.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FjgiSMnj3xTj3RcniYjwC%2FTemplates%20Library.png?alt=media&#x26;token=343e6084-950a-4a81-abe0-5a6916257cb2" alt=""><figcaption></figcaption></figure>
-
 As soon as the template gets approved, you'll find it in the templates library like the above.
 
 ### Using a Message Template
 
 There are 2 ways to use a message template,
 
-1. Using [Chat](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md)
-2. And using [Drip Campaign](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md)
+1. Using [Chat](chat.md)
+2. And using [Drip Campaign](drip-campaigns.md)
 
 While using the template through one of the above methods, ensure you replace the variable with the correct information.
 

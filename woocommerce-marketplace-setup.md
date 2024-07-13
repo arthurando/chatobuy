@@ -31,11 +31,7 @@ To create an API key in WooCommerce, please follow the steps below:
 * Select Woocommerce from Marketplace Apps.
 * Fill consumer key, consumer secret & Store URL in the Popup & Save.
 
-<figure><img src=".gitbook/assets/Woocommerce_marketplaceapp.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Configure WooCommerce</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/woo_configured.png" alt=""><figcaption><p>Configured App</p></figcaption></figure>
+<figure><img src=".gitbook/assets/configurewoocommerce.PNG" alt=""><figcaption><p>Configure WooCommerce</p></figcaption></figure>
 
 {% hint style="info" %}
 When App configured you can Sync you Existing Contacts one time with Sync Contact Buttons.

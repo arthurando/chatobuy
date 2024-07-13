@@ -29,11 +29,7 @@ Facebook lead advertising can achieve various marketing goals, but they work bes
 
 Using the Integrations module, you can integrate Facebook Leads and, based on them, run Automation Workflow.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F2TXVWQ1KgRgB9cOIMtIK%2FAccessing%20Facebook%20Leads%20option%20in%20the%20Integrations%20module.png?alt=media&#x26;token=654b2c6e-f263-48ea-a943-87e7aa826926" alt=""><figcaption></figcaption></figure>
-
 To create a Facebook Leads integration, head to Integrations and select **Facebook Leads**.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2FduMOktdCY6G0Q4k5uwt6%2FConnect%20FB%20Lead%20Modal.png?alt=media&#x26;token=b3622b67-1084-47f6-b1fe-7ee442eb91f0" alt=""><figcaption></figcaption></figure>
 
 It will open the Connect FB Lead modal, in which you need to enter the title and then click on CONNECT FACEBOOK PAGE. This will take you to Facebook, where you need to
 
@@ -41,11 +37,7 @@ It will open the Connect FB Lead modal, in which you need to enter the title and
 * Then, select the page you want to connect to.
 * And in the last, Allow Permissions. Once done, you'll find the page connected like the following,
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2F4xcWj5i3R4iMEngi6hFx%2FConnected%20FB%20Lead%20modal.png?alt=media&#x26;token=6263b65d-eaf1-4aa5-9bff-cf66fc383e72" alt=""><figcaption></figcaption></figure>
-
 Click Save. To enable/disable the Leads integration, click the toggle. To edit it, click the Edit Icon button. And to delete it, simply click the Trash Icon button.
-
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhElFPtMZjXYjDDMBT5q2%2Fuploads%2Fzft5fxk2I1yUdAZ6dWz0%2FConfigure%20Facebook%20Leads%20options.png?alt=media&#x26;token=2386ee02-b5c4-4b12-ac4b-96eae6ce04d7" alt=""><figcaption></figcaption></figure>
 
 For viewing the leads, click on the Metrics Icon button.
 

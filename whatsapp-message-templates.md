@@ -59,7 +59,7 @@ At Rampwin, all of these Message Templates are supported and you can easily crea
 
 At Rampwin, you can create and send message templates to your customers using the following WhatsApp Channels,
 
-* [Cloud API](https://github.com/rampwin/rampwin-gitbook-docs/blob/main/broken-reference/README.md)
+* [Cloud API](cloud-api.md)
 
 Please refer to these Rampwin WhatsApp Channels respective docs to set up a WhatsApp Message Template in no time.
 

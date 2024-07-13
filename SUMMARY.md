@@ -62,8 +62,8 @@
 * [Facebook Leads](facebook-leads.md)
 * [File Manager](file-manager.md)
 * [Message History](message-history.md)
-* [Marketplace App](marketplace-app/README.md)
-  * [Shopify Marketplace Setup](marketplace-app/shopify-marketplace-setup.md)
+* [Marketplace App](marketplace-app.md)
+* [Shopify Marketplace Setup](shopify-marketplace-setup.md)
 * [WooCommerce Marketplace Setup](woocommerce-marketplace-setup.md)
 * [Setup WooCoomerce Automations](setup-woocoomerce-automations.md)
 
@@ -82,7 +82,6 @@
 * [Facebook Integration](facebook-integration.md)
 * [Store Settings](store-settings.md)
 * [Message Templates](message-templates-1.md)
-* [Page Post Comments](page-post-comments.md)
 * [Instagram Integration](instagram-integration.md)
 
 ## 🛍️ STORE SETTINGS
